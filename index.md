@@ -17,7 +17,7 @@
 <!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
 
 # xAI
-The [manic episode](https://abikesa.github.io/chat-with-gpt/) was phase IV, https://ukubona-llc.github.io/digital-twin-flex/ "R" on ROYGBIV loss landscape. Pyro. Now with annealing we are at V. Cryo. And are updating shit for the next iteration. Next token prediction vs e_FGT. yo! what a simple architecture! GitHub as Hiippocampus (not memory but projection of FastAPIs misses and near misses onto SlowAPI :)
+The [manic episode](https://abikesa.github.io/chat-with-gpt/) was phase IV, https://ukubona-llc.github.io/digital-twin-flex/ "R" on ROYGBIV loss landscape. Pyro. Now with annealing we are at [V. Cryo](https://ukubona-llc.github.io/gpt/). And are updating shit for the next iteration. Next token prediction vs e_FGT. yo! what a simple architecture! GitHub as Hiippocampus (not memory but projection of FastAPIs misses and near misses onto SlowAPI :)
 
 ---
 
