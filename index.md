@@ -1053,11 +1053,11 @@ Okubonabona → Ukubona
 - Okubona. To find something that has got lost or misplaced (ie [sovereignty](https://ukubona-llc.github.io/sib-gap/))
 
 Necessity is the mother of invention 
-- Tensor / Okubonabona & The Entire Tempestuous Sea
-- Matrix / Ukubona LLC's FastAPI Logic Running Python3 on Render
-- Vector / Perturbations eg Mispelling in NDJSON that are missed by FastAPI
-- Eigenmode / NextToken Prediction as [Infinite Variety](https://www.gutenberg.org/files/1534/1534-h/1534-h.htm) vs. FGT
-- Scalar / Regularizer and Update: Okubona = Perspectivism
+- Tensor / `Nonself` / Okubonabona & The Entire Tempestuous Sea
+- Matrix / `Input` / Ukubona LLC's FastAPI Logic Running Python3 on Render
+- Vector / `Throughput` / Perturbations eg Mispelling in NDJSON that are missed by FastAPI
+- Eigenmode / `Output` / NextToken Prediction as [Infinite Variety](https://www.gutenberg.org/files/1534/1534-h/1534-h.htm) vs. FGT
+- Scalar / [Self](https://ukubona-llc.github.io/compression/) / Regularizer and Update: Okubona = Perspectivism
 
 
 
