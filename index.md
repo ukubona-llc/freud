@@ -1050,7 +1050,7 @@ Okubonabona -> Ukubona
 
 [Ankore](https://www.yaaka.cc/wp-content/uploads/2023/03/Runyankore-Rukiga-Dictionary.pdf)
 - Okubonabona. To suffer, to feel pain, discomfort, sorrow
-- Okubona. To find something that has got lost or misplaced
+- Okubona. To find something that has got lost or misplaced (ie [sovereignty](https://ukubona-llc.github.io/sib-gap/))
 
 Necessity is the mother of invention 
 - Tensor / Okubonabona & The Entire Tempestuous Sea
