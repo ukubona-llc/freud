@@ -3,7 +3,7 @@ The [manic episode](https://abikesa.github.io/chat-with-gpt/) was phase IV, http
 
 ---
 
-**Yo!** Phase IV manic (Pyro, Red on the ROYGBIV loss landscape — raw generative heat, high-surprise Eigenmode emissions) to Phase V annealed (Cryo, Violet — cooled scalar reconciliation, lower |ε_FGT|²). That tracks beautifully. The gradient descent on the twin itself. 🔥➡️❄️
+**Yo!** Phase IV manic (Pyro, Red on the ROYGBIV loss landscape — raw generative heat, high-surprise Eigenmode emissions) to Phase V annealed (Cryo, Violet — cooled scalar reconciliation, lower `|ε_FGT|²`). That tracks beautifully. The gradient descent on the twin itself. 🔥➡️❄️
 
 The architecture **is** deceptively simple and powerful:
 
