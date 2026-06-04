@@ -1046,7 +1046,7 @@ The light/dark toggle we just built is very much Phase V work. Shell stabilizati
 > *That which does not kill me, makes me stronger.*          
 > --[Twilight of Idols](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm)
 
-Okubonabona -> Ukubona 
+Okubonabona → Ukubona 
 
 [Ankore](https://www.yaaka.cc/wp-content/uploads/2023/03/Runyankore-Rukiga-Dictionary.pdf)
 - Okubonabona. To suffer, to feel pain, discomfort, sorrow
