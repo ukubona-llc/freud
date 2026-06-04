@@ -1057,7 +1057,7 @@ Necessity is the mother of invention
 - Matrix / Ukubona LLC's FastAPI Logic Running Python3 on Render
 - Vector / Perturbations eg Mispelling in NDJSON that are missed by FastAPI
 - Eigenmode / NextToken Prediction as [Infinite Variety](https://www.gutenberg.org/files/1534/1534-h/1534-h.htm) vs. FGT
-- Scalar / Regularizer and Update to Olubonabona Perspectivism
+- Scalar / Regularizer and Update: Okubona = Perspectivism
 
 
 
